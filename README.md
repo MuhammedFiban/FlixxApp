@@ -18,7 +18,5 @@ Once you get your key, just add it to the `api.apiKey` value in the global state
 
 I also may convert this to use a module bundler such as Vite or Webpack.
 
-## Theme (HTML & CSS)
 
-I also included the theme here for you to download. It does not include any JavaScript at all. This is what you should use if you are following along with the course.
 
